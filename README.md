@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @609harsh
+- 👋 Hi, I’m <b>Harsh Gupta</b>
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJS
 
