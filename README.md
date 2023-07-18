@@ -11,7 +11,7 @@
 
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20Mobile%20App%20developer;I%20am%20Blockchain%20Entheustic;Intrested%20In%20Latest%20Technology;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=BlueCenter=true&size=28&theme=tokyonight">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Web%20and%20Mobile%20App%20developer;I%20am%20Blockchain%20Enthusiastic;Intrested%20In%20Latest%20Technology;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=BlueCenter=true&size=28&theme=tokyonight">
 
 </p>
  
