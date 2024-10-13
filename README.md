@@ -20,7 +20,7 @@
 - 👋 Hi, I’m Harsh Gupta
 - 🌱 I’m currently learning Algorithm and App development
 - 💞️ I’m looking to collaborate on MERN stack development.
-- 📄 Resume- <a href="https://drive.google.com/file/d/1AVs0qcZgG_Yiu-QA8yKf41PAjv86jOP_/view?usp=sharing" target="_blank">Click here
+- 📄 Resume- <a href="https://drive.google.com/file/d/1Q1qmKx0JId7RTKRfjf8-kKijb1H_RH6s/view" target="_blank">Click here
 - 🧑‍💻 LeetCode- https://leetcode.com/harshgupta609/
 - 🧑‍💻 CodeChef- https://www.codechef.com/users/harsh609
 - 📫 How to reach me harshgupta609@gmail.com
