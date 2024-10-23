@@ -25,8 +25,9 @@
 - 🧑‍💻 CodeChef- https://www.codechef.com/users/harsh609
 - 📫 How to reach me harshgupta609@gmail.com
 
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=609harsh&show_icons=true&locale=en) | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=609harsh&) |
-| ------------- | ------------- |
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=609harsh&show_icons=true&locale=en) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=609harsh&) 
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=609harsh&layout=compact)](https://github.com/609harsh)
+
 
  
  ### 👨‍💻 Programming and markup languages
@@ -81,6 +82,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 </p>
+
 
 #### Profile Views
 
